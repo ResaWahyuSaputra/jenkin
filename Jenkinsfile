@@ -13,7 +13,7 @@ sh "ls -lisa"
 stage('Test') {
 steps {
 echo 'Runningg Test.. \n'
-}44
+}
 }
 stage('Deploy') {
 steps {
